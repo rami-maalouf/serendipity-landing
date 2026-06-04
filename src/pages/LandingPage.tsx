@@ -7,7 +7,7 @@ import type { GlobalStats } from "../lib/types";
 const demoStats = landingStats as GlobalStats;
 const SITE_URL = "https://orbitlabs.studio/s";
 const DEMO_URL = "https://serendipity.orbitlabs.studio/demo";
-const REPO_URL = "https://github.com/psycho-baller/luma-enricher";
+const REPO_URL = "https://github.com/rami-maalouf/luma-enricher";
 
 export function LandingPage() {
   return (
